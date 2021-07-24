@@ -6,5 +6,5 @@
 	"ebay-module": "true",
 	"maintenance": "false",
 	"proxy-checker": "false",
-	"proxy-scraper": "false",
+	"proxy-scraper": "false"
 }

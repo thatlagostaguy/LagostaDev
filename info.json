@@ -1,0 +1,10 @@
+{
+	"version": "1.0.0",
+	"canlogin": "true",
+	"canregister": "true",
+	"motd": "Hello Everyone",
+	"ebay-module": "true",
+	"maintenance": "false",
+	"proxy-checker": "false",
+	"proxy-scraper": "false",
+}
